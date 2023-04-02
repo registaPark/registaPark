@@ -32,7 +32,7 @@
   
 <h1 align="center">:seedling: Algorithm </h1>
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokscribe)](https://solved.ac/jyg8033)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seokscribe)](https://solved.ac/profile/seokscribe)
 
   
 </div>
