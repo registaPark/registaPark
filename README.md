@@ -4,7 +4,6 @@
 <div align="center">
   <div>
     <h1 align="center">👋 Hello World! </h1>
-    <p>백엔드 개발자 준비생 박민석입니다.</p>
   </div>
   <div>
     <h1 align="center">📚 Tech Stack </h1>
